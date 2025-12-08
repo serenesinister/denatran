@@ -1,0 +1,32 @@
+ Denatran/
+  bin/
+    CondutorService.class
+    VeiculoService.class
+    MultaService.class
+    IPVAService.class
+    MqttUtil.class
+    Main.class
+  logs/
+    condutores.txt
+    multas.txt
+    veiculos.txt
+  jar/
+    org.eclipse.paho.client.mqttv3-1.2.5
+  scr/
+    CondutorService.java
+    VeiculoService.java
+    MultaService.java
+    IPVAService.java
+    MqttUtil.java
+    Main.java
+  compile.bat
+  run.bat
+
+Entre na pasta src:
+cd C:\Users\Wemerson\Downloads\Denatran\src
+
+Depois compile cada microsserviço:
+javac -cp ".;..\jar\org.eclipse.paho.client.mqttv3-1.2.5.jar" CondutorService.java
+javac -cp ".;..\jar\org.eclipse.paho.client.mqttv3-1.2.5.jar" VeiculoService.java
+javac -cp ".;..\jar\org.eclipse.paho.client.mqttv3-1.2.5.jar" MultaService.java
+javac -cp ".;..\jar\org.eclipse.paho.client.mqttv3-1.2.5.jar" IPVAService.java

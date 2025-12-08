@@ -1,0 +1,4 @@
+2025-12-08;CADASTRAR;cpf=12345;nome=Joseph Soares
+2025-12-08;CADASTRAR;cpf=56789;nome=Jonas Tito
+2025-12-08;CADASTRAR;cpf=9876;nome=Zeca Pagodinho
+2025-12-08;PONTOS;cpf=12345;pontos=5

@@ -1,0 +1,27 @@
+===== SISTEMA DENATRAN =====
+1 - Cadastrar Condutor • Cadastrar condutor
+2 - Emplacar Veículo • Emplacar veículo
+3 - Transferir Proprietário • Transferir proprietário de um veículo
+4 - Consultar Veículos por Ano • Informar os veículos emplacados em um ano
+5 - Consultar Veículos por Condutor (CPF)
+6 - Consultar Multas por Condutor • Informar as multas de um condutor em um dado ano
+7 - Consultar Multas por Ano • Informar as multas lançadas em um dado ano
+8 - Consultar Multas por Veículo • Informar as multas cometidas por um veículo em um ano. Devem ser exibidos os dados do condutor que levou a multa
+9 - Ranking de Pontuação • Informar em ordem decrescente os 5 condutores com as maiores pontuações de multas
+10 - Calcular IPVA por Placa • Calcular IPVA do veículo (alíquota de 2%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

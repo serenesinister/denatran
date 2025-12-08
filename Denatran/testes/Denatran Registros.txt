@@ -1,0 +1,10 @@
+2025-01-10;CONDUTOR;cpf=12345678910;nome=Jose Silva
+2025-01-10;CONDUTOR;cpf=11122233344;nome=Maria Santos
+
+2025-01-10;VEICULO;placa=ABC1234;modelo=Fiesta;valor=28000;cpf_proprietario=12345678910;ano=2025
+2025-01-12;VEICULO;placa=XYZ9988;modelo=Siena;valor=85000;cpf_proprietario=11122233344;ano=2025
+2025-01-15;VEICULO;placa=DEF5577;modelo=Gol;valor=40000;cpf_proprietario=12345678910;ano=2025
+
+2025-02-03;MULTA;placa=ABC1234;cpf_condutor=12345678910;ano=2025;pontuacao=5;descricao=Excesso de velocidade
+2025-02-10;MULTA;placa=XYZ9988;cpf_condutor=11122233344;ano=2025;pontuacao=3;descricao=Estacionar em local proibido
+2025-02-15;MULTA;placa=ABC1234;cpf_condutor=12345678910;ano=2025;pontuacao=2;descricao=Dirigir sem cinto

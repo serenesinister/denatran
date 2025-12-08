@@ -1,0 +1,36 @@
+📌 Microsserviço 1 — Condutor
+
+- Cadastrar condutor
+- Ranking de pontuação
+
+📌 Microsserviço 2 — Veículo
+
+- Emplacar veículo
+- Transferir proprietário
+- Informar os veículos emplacados
+
+📌 Microsserviço 3 — IPVA
+
+- Calcular IPVA (2%)
+
+📌 Microsserviço 4 — Multas
+
+- Lançar multa
+- Consultar multas por ano
+- Consultar multas por veículo
+- Consultar multas por condutor
+
+Cada microsserviço:
+- se inscreve (subscribe) nos tópicos que precisa processar
+- publica nos tópicos de resposta
+
+Microsserviço	Tópico		Responsabilidades
+-------------------------------------------------------------------------
+CondutorService	detran/condutor	Cadastrar condutor + Ranking top 5
+VeiculoService	detran/veiculo	Emplacar, Transferir dono, Buscar por ano
+IPVAService	detran/ipva	Calcular IPVA 2%
+MultaService	detran/multa	Lançar multa + 3 consultas de multas
+
+Links:
+Workswithweb/mqttbox [https://www.youtube.com/watch?v=5_fJM6KgNTY]
+mqttv3/1.2.5 [https://repo1.maven.org/maven2/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.2.5/]

@@ -1,0 +1,1 @@
+1765196240421;MULTA;cpf=12345;placa=ABC123;descricao=Excesso de Velocidade;valor=360.0;ano=2025

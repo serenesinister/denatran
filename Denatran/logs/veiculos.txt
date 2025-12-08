@@ -1,0 +1,2 @@
+VEICULO;placa=XYZ123;modelo=Ford;valor=40000.0;cpf=9876;ano=2023
+VEICULO;placa=ABC123;modelo=Siena;valor=50000.0;cpf=12345;ano=2005
