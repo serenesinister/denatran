@@ -148,9 +148,9 @@ Rode os scripts que já estão prontos:
 
 ## Links Importantes
 
-**Repositório do Projeto**: [Link para o Repositório no GitHub](https://github.com/serenesinister/denatran)
-**Repositório de Entrega do projeto**: [Link para o Repositório de Entrega](https://github.com/rafael-dcomp/atividade-02-u1-detran-mqtt-projeto_sd/tree/main/Denatran)
-**Vídeo do Projeto**: [Assista à apresentação e demonstração do projeto no YouTube](https://youtu.be/eUciF2eCX3s)
+**Repositório do Projeto**: [Link para o Repositório no GitHub](https://github.com/serenesinister/denatran)  
+**Repositório de Entrega do projeto**: [Link para o Repositório de Entrega](https://github.com/rafael-dcomp/atividade-02-u1-detran-mqtt-projeto_sd/tree/main/Denatran)  
+**Vídeo do Projeto**: [Assista à apresentação e demonstração do projeto no YouTube](https://youtu.be/eUciF2eCX3s)  
 
 ---
 
