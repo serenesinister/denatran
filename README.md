@@ -144,7 +144,13 @@ Rode os scripts que já estão prontos:
 ### 1. compile.bat → compila
 ### 2. run.bat → executa o sistema e conecta ao MQTT automaticamente
 
-[Link para o Repositório no GitHub](https://github.com/serenesinister/denatran)
+---
+
+## Links Importantes
+
+**Repositório do Projeto**: [Link para o Repositório no GitHub](https://github.com/serenesinister/denatran)
+**Repositório de Entrega do projeto**: [Link para o Repositório de Entrega](https://github.com/rafael-dcomp/atividade-02-u1-detran-mqtt-projeto_sd/tree/main/Denatran)
+**Vídeo do Projeto**: [Assista à apresentação e demonstração do projeto no YouTube](https://youtu.be/eUciF2eCX3s)
 
 ---
 
