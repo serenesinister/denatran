@@ -72,12 +72,12 @@ O sistema possui persistência de dados em arquivos `.txt` dentro da pasta `logs
 
 O sistema publica/consome mensagens nos seguintes tópicos:
 
-Tópico&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;Serviço&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;Evento gerado &nbsp;  
--------------------------------------------------------------------------&nbsp;  
- detran/condutor&nbsp;|&nbsp;CondutorService&nbsp;|&nbsp;cadastro, pontuação  
- detran/veiculo&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;VeiculoService&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;emplacamento, transferência  
- detran/multa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;MultaService&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;novas multas, consultas  
- detran/ipva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;IPVAService&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;cálculo de IPVA  
+| Tópico             | Serviço           | Evento gerado                 |
+|-------------------|-----------------|------------------------------|
+| detran/condutor    | CondutorService  | cadastro, pontuação          |
+| detran/veiculo     | VeiculoService   | emplacamento, transferência  |
+| detran/multa       | MultaService     | novas multas, consultas      |
+| detran/ipva        | IPVAService      | cálculo de IPVA              |
 
 ---
 
